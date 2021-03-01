@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153554712379",
+    "project_id": "chatapp-d192b",
+    "storage_bucket": "chatapp-d192b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153554712379:android:b08587057c09cf1e1ee91e",
+        "android_client_info": {
+          "package_name": "co.harish.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153554712379-ejh9sg603n8kui6n4oem1eakhisili7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQZSuTlMXFtH0_BF0etN74QWPxmy0WNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153554712379-ejh9sg603n8kui6n4oem1eakhisili7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
