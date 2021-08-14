@@ -52,7 +52,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                   ),
                 ),
                 Text(
-                  'Flash Chat',
+                  'BALA_BUZZ',
                   style: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
